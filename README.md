@@ -360,4 +360,4 @@ sehingga perlu adanya tuning parameter kembali terhadap fitur.
 
 ## Deployment
 
-Link Streamlit:
+Link Streamlit:[mobile-phone-price](https://mobile-phone-price-reyhan17.streamlit.app/https://mobile-phone-price-reyhan17.streamlit.app/)
