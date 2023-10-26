@@ -1,8 +1,8 @@
 # Laporan Proyek Machine Learning
 
-### Nama : Rehan
+### Nama : Nur Muhammad Reyhan
 
-### Nim :
+### Nim :211351106
 
 ### Kelas : Malam B
 
